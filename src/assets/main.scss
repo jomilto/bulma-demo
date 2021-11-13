@@ -1,0 +1,4 @@
+@import "bulma/bulma";
+.bulma-arrow-mixin {
+    @include arrow(lightblue);
+}
